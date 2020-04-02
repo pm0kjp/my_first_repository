@@ -1,0 +1,5 @@
+Reasons to choose git
+
+* you can track changes
+* you can use GitHub
+* all the cool kids are doing it!
